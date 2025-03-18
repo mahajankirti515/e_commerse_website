@@ -1,0 +1,15 @@
+.shop-section {
+    width: 100%;
+    min-height: 100vh;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    gap: 10px;
+}
+
+.heading svg {
+    font-size: 3.8rem;
+}
