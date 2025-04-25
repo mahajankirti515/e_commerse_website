@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./shop.css";
+import "./Shop.css";
 import { category } from "../../category";
 import { products } from "../../products";
 import Product from "../../components/products/Product";
